@@ -1,6 +1,6 @@
 Pre-requisites: JDK 1.8, maven
 
-a) unzip folder
+a) Clone the repo
 b) cd dawServiceWorld
 c) mvn clean jetty:run
 
